@@ -1,0 +1,4 @@
+/***
+* tester = fdk
+***/
+print ("HelloWorld!")
